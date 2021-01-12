@@ -1,2 +1,3 @@
 Program ini saya buat untuk mencari pengetahuan yang lebih di github.
 List program yang akan dibuat adalah program dari semester 4 saya.
+Program pertama adalah kalkulator
